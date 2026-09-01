@@ -1,0 +1,15 @@
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime data
+chunk_storage/*
+retrieved_chunks/
+Password.key
+
+# Downloaded output files
+downloaded_*

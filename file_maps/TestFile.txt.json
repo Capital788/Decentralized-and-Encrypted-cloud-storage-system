@@ -1,0 +1,15 @@
+{
+    "filename": "TestFile.txt",
+    "filesize": 36,
+    "chunks": [
+        [
+            "20fa4db62a15f1c2a98724fc89bc0ae82049adc8",
+            [
+                [
+                    "localhost",
+                    2069
+                ]
+            ]
+        ]
+    ]
+}
